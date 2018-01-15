@@ -1,0 +1,14 @@
+0da89e280a64b53d198488df694d34c3 *DESCRIPTION
+5bfcdd2c8f3e68c418de3dce578c9654 *LICENSE
+2f3789902955357756ebed6239559ed2 *NAMESPACE
+d71a2186cd9620a95fbcee400d303c50 *NEWS.md
+6e9e08c7b2991a0adda6fd6bcc8ef858 *R/imports.r
+e15c592104f0de734e254ca11786d969 *R/r6extended.r
+c8ea5e6a4ec1918c698da650f97f8d65 *R/tools.R
+d367e3306bfa8db4701c3e0092a21265 *R/zzz.R
+ae5692e6aede1470e224b66c553bf2d0 *README.md
+bdc867a9bd63213207e375fdc6c8188c *man/pipe.Rd
+9287b87fe7c7c3d2035c7eac5b55624e *man/r6e_hash.Rd
+171752639a566f98fef22196f5fa9551 *man/r6extended.Rd
+e40e0f042b39872f52652e7c0d24e452 *tests/test-all.R
+7d45701aedb74ec7c61e2bda05c88877 *tests/testthat/test_r6extended.R
